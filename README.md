@@ -104,7 +104,8 @@ Ropsten: [0x0BC1C9Ab8E7D9ddcBfb2A3A6373c852aD05C1bF9](https://ropsten.etherscan.
 #### LobsterDAO
 
 Mainnet: [0x026224a2940bfe258d0dbe947919b62fe321f042](https://etherscan.io/address/0x026224a2940bfe258d0dbe947919b62fe321f042#code)  
-Rinkeby (ping @drinkius to claim yours): [0x37722f3729986e523e6bf8abc9bab37f40ac2712](https://rinkeby.etherscan.io/address/0x37722f3729986e523e6bf8abc9bab37f40ac2712#code)
+Rinkeby (ping @drinkius to claim yours): [0x37722f3729986e523e6bf8abc9bab37f40ac2712](https://rinkeby.etherscan.io/address/0x37722f3729986e523e6bf8abc9bab37f40ac2712#code)  
+Ropsten (ping @drinkius to claim yours): [0x81fb974d856e8ceeffab5fb1656d2694f872d571](https://ropsten.etherscan.io/address/0x81fb974d856e8ceeffab5fb1656d2694f872d571#writeContract)
 
 ## License
 
