@@ -74,7 +74,7 @@ Görl: [0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D](https://goerli.etherscan.io/
 Kovan: [0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D](https://kovan.etherscan.io/address/0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D#code)  
 Fantom Testnet: [0xd7e75685ca319b9298487d058f65a0a00bec6de7](https://testnet.ftmscan.com/address/0xd7e75685ca319b9298487d058f65a0a00bec6de7#code)
 
-#### Uniswap v2
+#### Uniswap v3
 [Main reference](https://docs.uniswap.org/protocol/reference/deployments)  
 All addresses are the same at Ethereum, Optimism, Arbitrum, Polygon & all testnets:  
 UniswapV3Factory	[0x1F98431c8aD98523631AE4a59f267346ea31F984](https://github.com/Uniswap/uniswap-v3-core/blob/v1.0.0/contracts/UniswapV3Factory.sol)  
